@@ -12,9 +12,9 @@ locale                   : "fr-FR"
 title                    : "GetChildItem"
 title_separator          : "-"
 name                     : "Tristan"
-description              : "An amazing website."
+description              : "PowerShell. And not much more."
 url                      : "https://getchilditem.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/"
 repository               : "GetChildItem/GetChildItem.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Tristan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PowerShell, and not much more."
+  bio              : "PowerShell. And not much more."
   location         : "Paris"
   email            :
   uri              :
