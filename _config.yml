@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Tristan"
-  avatar           : "/assets/images/requin.jpg"
+  avatar           : "assets/images/requin.jpg"
   bio              : "PowerShell. And not much more."
   location         : "Paris"
   email            :
