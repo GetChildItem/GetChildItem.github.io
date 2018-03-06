@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Tristan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/requin.jpg"
   bio              : "PowerShell. And not much more."
   location         : "Paris"
   email            :
